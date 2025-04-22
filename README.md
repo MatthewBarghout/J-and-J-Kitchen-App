@@ -11,6 +11,11 @@ This app is a SwiftUI-based menu ordering experience designed for J and J Kitche
 <img width="426" alt="Screenshot 2025-04-22 at 2 47 14 PM" src="https://github.com/user-attachments/assets/3723dc46-51a1-4e51-8726-837ed6744acf" />
 
 
+https://github.com/user-attachments/assets/4a779015-c89a-4916-bcd4-de2357b045dd
+
+
+
+
 
 ---
 
